@@ -84,7 +84,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url("js/bg-image.jpg");
+    background-image: url("thor.jpg");
 }
 
 .box-container h2 {
@@ -149,7 +149,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("js/bg-image.jpg");
+    background-image: url("thor.jpg");
 }
 
 .education-container h2,
@@ -255,4 +255,6 @@ footer {
 
 ​ footer p {
     margin: 5px 0;
+    size: 2px;
+    background-color: chartreuse;
 }
